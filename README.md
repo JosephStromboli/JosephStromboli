@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @JosephStromboli
-- 👀 I’m interested in web design and game development
+- 👀 I’m interested in Web Design and Development, Game development, and Data Structures/Algorithms 
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript, web design, Python, 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jskeltonv1.6@gmail.com
+- 📫 How to reach me joefusstromboli@gmail.com
+
+
 
 <!---
 JosephStromboli/JosephStromboli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
